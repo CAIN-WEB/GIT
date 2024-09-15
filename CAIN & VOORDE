@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+<title>Cain Voorde</title>
+  <style>
+    body {
+      font-family: "Times New Roman", Times, serif;
+      color: #C0D9D9; 
+    }
+  </style>
+  
+  
+  <body>
+    <h1>⋆˚࿔ Cain & Voorde 𝜗𝜚˚⋆</h1>
+</body>
+ 
+  <!DOCTYPE html>
+<html>
+<head>
+<style>
+.hollow-font {
+  font-weight: lighter;
+  color: #C0D9D9; 
+  -webkit-text-stroke: 1px #C0D9D9; 
+  text-stroke: 1px white;
+}
+</style>
+</head>
+
+  <body>
+ 
+  <p class="hollow-font">⊹ ₊ ⟡ ⋆给你的小猫画了一个逐帧动画，但是你日记上传不了视频，所以尝试建立一个网页把视频发给你 </p>
+
+  <p2 class="hollow-font">⋆ ˚｡⋆౨ৎ˚ CAT VIDEO</p2>
+    
+  <video src= "https://b23.tv/zdyVSuZ" controls> </video> 
+
+</body>
+  
+  
+  
+  <!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+  <title>cat</title>
+  <style>
+  .box {
+ width: 600px
+ height: 600px
+ border: solid 5px #C0D9D9
+ background-image: url(https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=雏菊)
+ backfround-repeat: no-repeat;
+  </style>
